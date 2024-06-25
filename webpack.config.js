@@ -5,7 +5,7 @@ module.exports = {
     entry: {
         //Menu: './src/Menu.js', // 主入口文件
         //Chart: './src/Chart.js', // 主入口文件
-        index0623am: './src/index0623am.js',// 主入口文件
+        index: './src/index.js',// 主入口文件
         //styles:'./src/styles.css'
     },
     output: {
